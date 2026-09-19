@@ -1,4 +1,4 @@
-package ru.rbpo.task1;
+package rbpo.lab1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
